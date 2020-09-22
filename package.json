@@ -1,0 +1,18 @@
+{
+  "name": "start_webserver_watch_jshint_uglifyjs__html_minify",
+  "version": "1.0.0",
+  "description": "This is a challenge to Uglify JavaScript files using grunt built for the internal evaluation.",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.3.2"
+  }
+}
